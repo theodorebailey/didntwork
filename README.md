@@ -1,4 +1,4 @@
-# exactly
+# Home Page
 
 Hi, my name's Ted 👋
 
